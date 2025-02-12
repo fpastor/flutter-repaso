@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_repaso_app/add.dart';
-import 'package:flutter_repaso_app/item_provider.dart';
-import 'package:flutter_repaso_app/list.dart';
+import 'package:flutter_repaso_app/widgets/add.dart';
+import 'package:flutter_repaso_app/provider/item_provider.dart';
+import 'package:flutter_repaso_app/widgets/list.dart';
 import 'package:provider/provider.dart';
 
 void main() {
