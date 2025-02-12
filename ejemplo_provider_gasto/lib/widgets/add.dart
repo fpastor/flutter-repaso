@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_repaso_2/gasto.dart';
-import 'package:flutter_repaso_2/gasto_provider.dart';
+import 'package:flutter_repaso_2/provider/gasto_provider.dart';
 import 'package:provider/provider.dart';
 
 class Add extends StatelessWidget {
